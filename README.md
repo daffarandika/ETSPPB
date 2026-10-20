@@ -1,4 +1,4 @@
-* Soal 1
+# Soal 1
 **Studi Kasus & Ruang Lingkup Aplikasi LibraryReg**
 
 ---
@@ -37,3 +37,20 @@ Untuk menyelesaikan permasalahan tersebut, dikembangkan **LibraryReg**, sebuah a
 
 * Aplikasi fokus pada manajemen data pendaftaran keanggotaan (CRUD) dan belum mencakup fitur sirkulasi peminjaman/pengembalian buku.
 * Otentikasi multi-role komplit (seperti OAuth/SSO kampus) tidak dicakup pada versi dasar ini; antarmuka difokuskan pada alur input dan pengelolaan data lokal/basis data aplikasi.
+
+# Soal 2
+- List Member
+  
+![list](./img/list.png)
+
+- Detail Member
+  
+![detail](./img/detail.png)
+
+- Tambah Member
+  
+![add](./img/add.png)
+
+- Konfirmasi Ketika Menghapus Member
+  
+![konfirm](./img/konfirm.png)
